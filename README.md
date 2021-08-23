@@ -8,7 +8,7 @@ Update UFO webpage and dynamic table to provide a more in-depth analysis of UFO 
  - Software: HTML/CSS, JavaScript, Visual Studio Code, BootStrap
 
 ## Results
-####  Link to UFO Sightings Webpage: https://lleyva-bot.github.io/UFOs/index.html
+####  Link to UFO Sightings Webpage: https://lleyva-bot.github.io/UFOs
 
 ## Webpage Search Criteria
 
